@@ -1,0 +1,17 @@
+{
+    "name": "ort_tp2_tp1",
+    "version": "1.0.0",
+    "description": "Primer trabajo practico de la materia TP2 de la ORT",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "npm run test",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/romerocaroe/ORT-TP2-TP1.git"
+    },
+    "author": "Carolina Romero",
+    "license": "ISC"
+}
